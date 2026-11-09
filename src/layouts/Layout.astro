@@ -1,0 +1,17 @@
+---
+import '../styles/global.css';
+import Image from '../components/Image.astro';
+const {title,description='Love Life, Ride Safe! Scooter training, guided scooter tours and emergency information in Bali.'}=Astro.props;
+const base=import.meta.env.BASE_URL;
+const nav=[['Home',''],['Scooter Training','trainingcourse/'],['Scooter Tours','scootertours/'],['Emergency','emergency/'],['About','ourstory/']];
+const active=(path)=>Astro.url.pathname===base+path;
+---
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width"/><meta name="description" content={description}/><meta name="theme-color" content="#ff7b18"/><title>{title} | Safe Riding Bali</title><link rel="icon" type="image/webp" href={base+'assets/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.webp'}/><meta property="og:title" content={title+' | Safe Riding Bali'}/><meta property="og:description" content={description}/></head><body id="top">
+<a class="skip" href="#main">Skip to main content</a>
+<header><div class="header-inner"><a class="brand" href={base}><Image page="home" index={0} alt="Safe Riding Bali logo" eager/><span>Safe Riding Bali</span></a><button class="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav">☰</button><nav id="main-nav" aria-label="Main navigation">{nav.map(([label,path])=><a href={base+path} aria-current={active(path)?'page':undefined}>{label}</a>)}</nav></div></header>
+<main id="main"><slot/></main>
+<footer><div class="footer-inner"><div><p>© 2024 by Safe Riding Bali</p><p><a href="https://www.saferidingbali.com">www.saferidingbali.com</a></p><p><a href="mailto:team@saferidingbali.com">team@saferidingbali.com</a></p></div><a href={base} class="footer-logo"><Image page="home" index={5} alt="Safe Riding Bali"/></a><nav aria-label="Footer navigation">{nav.map(([label,path])=><a href={base+path} aria-current={active(path)?'page':undefined}>{label}</a>)}</nav></div><a class="back-top" href="#top" aria-label="Back to top">⌃</a></footer>
+<script>
+const toggle=document.querySelector('.menu-toggle');const nav=document.querySelector('#main-nav');
+toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Close menu':'Open menu');nav?.classList.toggle('open',open)});
+</script></body></html>

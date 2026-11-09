@@ -1,0 +1,684 @@
+{
+  "home": {
+    "rich": [
+      {
+        "id": "comp-jix04uf9",
+        "html": "<h1>Love Life, Ride Safe!</h1>",
+        "text": "Love Life, Ride Safe!"
+      },
+      {
+        "id": "comp-ly31xdyr",
+        "html": "<p>Keeping the roads of Bali safe by providing</p>\n\n<ul>\n<li>\n<p>Scooter Training</p>\n</li>\n<li>\n<p>Scooter Tours</p>\n</li>\n<li>\n<p>Emergency Information</p>\n</li>\n</ul>",
+        "text": "Keeping the roads of Bali safe by providing   \n\n\n\nScooter Training\n\n\nScooter Tours\n\n\nEmergency Information"
+      },
+      {
+        "id": "comp-ly32jp9l",
+        "html": "<h5>Scooter Training</h5>",
+        "text": "Scooter Training"
+      },
+      {
+        "id": "comp-ly32jp9n",
+        "html": "<p>Bali is a very challenging place to ride a scooter, because of dense traffic, restricted space, bad road quality and hectic crossroads.</p>\n\n\n\n<p>Our training is designed for both beginners and those looking to gain more confidence by knowing the ins and outs of navigating on Bali's roads. </p>\n\n<p>Learn essential skills such as safe riding techniques, road etiquette, and how to handle a scooter in busy conditions.</p>\n\n\n\n<p>Our experienced instructors ensure that you feel comfortable and are prepared to ride independently. Whether you're commuting or exploring Bali, our training gives you the skills and confidence you need to ride safely and enjoy.</p>",
+        "text": "Bali is a very challenging place to ride a scooter, because of dense traffic, restricted space, bad road quality and hectic crossroads.\n\n \n\nOur training is designed for both beginners and those looking to gain more confidence by knowing the ins and outs of navigating on Bali's roads. \n\nLearn essential skills such as safe riding techniques, road etiquette, and how to handle a scooter in busy conditions.\n\n \n\nOur experienced instructors ensure that you feel comfortable and are prepared to ride independently. Whether you're commuting or exploring Bali, our training gives you the skills and confidence you need to ride safely and enjoy."
+      },
+      {
+        "id": "comp-ly32mxxs",
+        "html": "<h5>Scooter Tours</h5>",
+        "text": "Scooter Tours"
+      },
+      {
+        "id": "comp-ly32mxxu",
+        "html": "<p>Embrace the joy of riding, the freedom and adventurism. &nbsp;</p>\n\n\n\n<p>Bali is best explored on two wheels!&nbsp;</p>\n\n<p>Connect with fellow travelers and learn about balinese culture and let local riders guide you to the most beautiful and authentic places Bali has to offer. Waterfalls, rice fields or a tour to mount Batur. Create unique and unforgettable experiences safe and sound with us.&nbsp;</p>\n\n\n\n<p>Also suited for low leveled riders!&nbsp;</p>\n\n<p>Slow and steady wins the race&nbsp;✌</p>",
+        "text": "Embrace the joy of riding, the freedom and adventurism.  \n\n \n\nBali is best explored on two wheels! \n\nConnect with fellow travelers and learn about balinese culture and let local riders guide you to the most beautiful and authentic places Bali has to offer. Waterfalls, rice fields or a tour to mount Batur. Create unique and unforgettable experiences safe and sound with us. \n\n \n\nAlso suited for low leveled riders! \n\nSlow and steady wins the race ✌"
+      },
+      {
+        "id": "comp-ly5t4o07",
+        "html": "<h3>Come<br>\nRide with<br>\nus!</h3>",
+        "text": "Come\nRide with\nus!"
+      },
+      {
+        "id": "comp-ly5dl29p",
+        "html": "<h2>In case of Emergency</h2>",
+        "text": "In case of Emergency"
+      },
+      {
+        "id": "comp-jix04ufh9",
+        "html": "<p>Accidents happen!</p>\n\n<p>Prepare yourelf&nbsp;and learn what you have to do in case of an traffic accident. &nbsp;Follow the steps and stay calm.</p>\n\n\n\n<p>While not have a look before you go.</p>\n\n\n\n<p>Good luck, and stay safe!</p>\n\n",
+        "text": "Accidents happen!\n\nPrepare yourelf and learn what you have to do in case of an traffic accident.  Follow the steps and stay calm.\n\n  \n\nWhile not have a look before you go.\n\n \n\nGood luck, and stay safe!"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://static.wixstatic.com/media/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png/v1/fill/w_72,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_f754b7943e0a45faba778e09a800c777~mv2.png/v1/fill/w_49,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_f754b7943e0a45faba778e09a800c777~mv2.png",
+        "alt": "safe-driving-bali.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_892b8e845cdc473e8c4fd95a9fcd19f9~mv2.jpg/v1/fill/w_83,h_130,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_892b8e845cdc473e8c4fd95a9fcd19f9~mv2.jpg",
+        "alt": "Y1_edited.jpg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_8356076152f04e0e9fec58ca05eab5f5~mv2.jpeg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_8356076152f04e0e9fec58ca05eab5f5~mv2.jpeg",
+        "alt": "AdobeStock_369970838.jpeg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_c24be07115224bbe9bcc4af6a185367b~mv2.jpeg/v1/fill/w_292,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_c24be07115224bbe9bcc4af6a185367b~mv2.jpeg",
+        "alt": "AdobeStock_621550879.jpeg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_a69811712fe843d18a86d32197b98c20~mv2.png/v1/fill/w_212,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_a69811712fe843d18a86d32197b98c20~mv2.png",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "Book a training",
+        "url": "https://wa.me/6281138004171"
+      },
+      {
+        "text": "More Information",
+        "url": "https://oliverselch.wixsite.com/website/trainingcourse"
+      },
+      {
+        "text": "I WANT TO EXPLORE BALI",
+        "url": "https://oliverselch.wixsite.com/website/scootertours"
+      },
+      {
+        "text": "EMERGENCY PAGE",
+        "url": "https://oliverselch.wixsite.com/website/emergency"
+      }
+    ]
+  },
+  "trainingcourse": {
+    "rich": [
+      {
+        "id": "comp-lz0trq1b",
+        "html": "<p>Bali is one of the most challenging environments to ride a scooter because of narrow, winding roads with potholes, intense &amp; chaotic traffic, as well as animals on the road!</p>\n\n\n\n<p>We teach you the skills required&nbsp; to navigate chaotic streets, manage the scooter and get safely from A to B.</p>\n\n\n\n<p>Our comprehensive training has been developed by a group of experienced coaches specifically for foreigners (We teach 200 skills / knowledge items).</p>\n\n\n\n<p>Trainings are personalized with one, max two participants (if you bring a partner or friend) and teaching adapts to your specific needs, style and learning speed.</p>\n\n\n\n<p>Our introductory training (in Ubud or Canggu) is a 2 hour session for which we provide&nbsp; safety gear and water. We can also organize a scooter, if required.</p>\n\n\n\n<p>If you want to learn how to ride (more) safely secure your spot for the next training: (WA: +62-811-3800-4171):</p>",
+        "text": "Bali is one of the most challenging environments to ride a scooter because of narrow, winding roads with potholes, intense & chaotic traffic, as well as animals on the road!\n\n   \n\nWe teach you the skills required  to navigate chaotic streets, manage the scooter and get safely from A to B.\n\n \n\nOur comprehensive training has been developed by a group of experienced coaches specifically for foreigners (We teach 200 skills / knowledge items).\n\n  \n\nTrainings are personalized with one, max two participants (if you bring a partner or friend) and teaching adapts to your specific needs, style and learning speed.\n\n    \n\nOur introductory training (in Ubud or Canggu) is a 2 hour session for which we provide  safety gear and water. We can also organize a scooter, if required.\n\n    \n\nIf you want to learn how to ride (more) safely secure your spot for the next training: (WA: +62-811-3800-4171):"
+      },
+      {
+        "id": "comp-lz0trq193",
+        "html": "<h5>Learn to ride safely in Bali!</h5>",
+        "text": "Learn to ride safely in Bali!"
+      },
+      {
+        "id": "comp-lz6s10dh",
+        "html": "<h1>Feedback</h1>",
+        "text": "Feedback"
+      },
+      {
+        "id": "comp-lz6s1rv2",
+        "html": "<p>Mayur</p>",
+        "text": "Mayur"
+      },
+      {
+        "id": "comp-lz6s10di3",
+        "html": "<blockquote>“They were so good, came all the way from Ubud to meet me at 8 AM, took their time, talked and explained things nicely and simply about scooter safety.</blockquote>\n\n\n\n<blockquote>I highly recommend.\"</blockquote>",
+        "text": "“They were so good, came all the way from Ubud to meet me at 8 AM, took their time, talked and explained things nicely and simply about scooter safety.\n\n \n\nI highly recommend.\""
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://static.wixstatic.com/media/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png/v1/fill/w_72,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_d4630dc98e7a4e1e8a192af9b1d2accd~mv2.jpg/v1/fill/w_123,h_175,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_d4630dc98e7a4e1e8a192af9b1d2accd~mv2.jpg",
+        "alt": "Y and Coach_edited.jpg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_1799aac9f5c948fd968f7c28dfe6219b~mv2.jpg/v1/fill/w_98,h_74,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_1799aac9f5c948fd968f7c28dfe6219b~mv2.jpg",
+        "alt": "Photo 26-07-2024, 15 38 17.jpg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_a3cef3bdbaab46d1a85504a458d2518a~mv2.png/v1/fill/w_292,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Feedback_Mayur_edited_edited.png",
+        "alt": "Feedback_Mayur_edited_edited.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_a69811712fe843d18a86d32197b98c20~mv2.png/v1/fill/w_212,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_a69811712fe843d18a86d32197b98c20~mv2.png",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "​",
+        "url": "mailto:team@saferidingbali.com?subject=Practical%20Training"
+      },
+      {
+        "text": "LEARN SAFE RIDING",
+        "url": "https://wa.me/6281138004171"
+      }
+    ]
+  },
+  "scootertours": {
+    "rich": [
+      {
+        "id": "comp-m1pl24au",
+        "html": "<h2>Ride with us!</h2>",
+        "text": "Ride with us!"
+      },
+      {
+        "id": "comp-lyed9vn9",
+        "html": "<h2>Bali Scooter Tours<br>\nFor everyone&nbsp;</h2>",
+        "text": "Bali Scooter Tours\nFor everyone"
+      },
+      {
+        "id": "comp-ly5u0msk",
+        "html": "<p>Discover Bali like never before with our guided scooter tours, perfect for those who want to explore the island with a group (or not feel confident enough to ride solo). Our tours are led by local Balinese professionals who take you to stunning, authentic spots across the island. Whether you're a beginner or looking to meet fellow travelers, our tours offer a safe and social way to experience the beauty of Bali. Enjoy riding through lush rice fields, scenic coastlines, or hidden waterfalls while making new friends on this unforgettable adventure. Let us handle the details while you focus on the ride!</p>\n\n\n\n<p>Take your Bali experience to the next level - even if you are beginner rider! Slow and steady wins the race</p>\n\n\n\n<p>Join us on Nomeo!</p>",
+        "text": "Discover Bali like never before with our guided scooter tours, perfect for those who want to explore the island with a group (or not feel confident enough to ride solo). Our tours are led by local Balinese professionals who take you to stunning, authentic spots across the island. Whether you're a beginner or looking to meet fellow travelers, our tours offer a safe and social way to experience the beauty of Bali. Enjoy riding through lush rice fields, scenic coastlines, or hidden waterfalls while making new friends on this unforgettable adventure. Let us handle the details while you focus on the ride!\n\n \n\nTake your Bali experience to the next level - even if you are beginner rider! Slow and steady wins the race    \n\n \n\nJoin us on Nomeo!"
+      },
+      {
+        "id": "comp-m1pjdcgb",
+        "html": "<h2>Rice Field<br>\nTour</h2>",
+        "text": "Rice Field\nTour"
+      },
+      {
+        "id": "comp-m1pkylqb",
+        "html": "<h2>Ride through Bali's iconic rice terraces, soaking in the stunning green landscapes and tranquil village vibes. Perfect for nature lovers looking to experience Bali’s rural charm on two wheels.</h2>",
+        "text": "Ride through Bali's iconic rice terraces, soaking in the stunning green landscapes and tranquil village vibes. Perfect for nature lovers looking to experience Bali’s rural charm on two wheels."
+      },
+      {
+        "id": "comp-m1pja3nv",
+        "html": "<h2>Kintamani &amp; Waterfall Tour</h2>",
+        "text": "Kintamani & Waterfall Tour"
+      },
+      {
+        "id": "comp-lz6pyjvy",
+        "html": "<h2>Explore the breathtaking Kintamani volcano, followed by a refreshing visit to a hidden waterfall. This adventure offers a mix of natural wonders and thrilling scooter rides.</h2>",
+        "text": "Explore the breathtaking Kintamani volcano, followed by a refreshing visit to a hidden waterfall. This adventure offers a mix of natural wonders and thrilling scooter rides."
+      },
+      {
+        "id": "comp-m1pjn4f9",
+        "html": "<h2>Beach<br>\nTour</h2>",
+        "text": "Beach\nTour"
+      },
+      {
+        "id": "comp-m1pkyihx",
+        "html": "<h2>Cruise along Bali's scenic coastline, stopping at some of the island's most beautiful beaches. Enjoy the sun, sand, and ocean breeze with this relaxing coastal ride.</h2>",
+        "text": "Cruise along Bali's scenic coastline, stopping at some of the island's most beautiful beaches. Enjoy the sun, sand, and ocean breeze with this relaxing coastal ride."
+      },
+      {
+        "id": "comp-m1qqvhz2",
+        "html": "<h2>Curious how we do it?<br>\nHere are 2 aftermovies of past tours.</h2>",
+        "text": "Curious how we do it?\nHere are 2 aftermovies of past tours."
+      },
+      {
+        "id": "comp-m1qr02pv",
+        "html": "<h2>Kintamani &amp; Waterfall Tour&nbsp;</h2>",
+        "text": "Kintamani & Waterfall Tour"
+      },
+      {
+        "id": "comp-m1qqxevh",
+        "html": "<h2>Old Village &amp; Waterfall Tour</h2>",
+        "text": "Old Village & Waterfall Tour"
+      },
+      {
+        "id": "comp-lzhufs0m",
+        "html": "<h2>Coffee Secrets Tour</h2>",
+        "text": "Coffee Secrets Tour"
+      },
+      {
+        "id": "comp-lzhufs0m6",
+        "html": "<h2>Join us on a tour to learn everything about the beautiful natural qualities of Balinese coffee. Immerse yourself in beautiful nature and meet friendly people.</h2>",
+        "text": "Join us on a tour to learn everything about the beautiful natural qualities of Balinese coffee. Immerse yourself in beautiful nature and meet friendly people."
+      },
+      {
+        "id": "comp-m1pj1gtk",
+        "html": "<h1>Testimonials</h1>",
+        "text": "Testimonials"
+      },
+      {
+        "id": "comp-m1pizn1v",
+        "html": "<p>Paulina&nbsp; - &nbsp;⭐⭐⭐⭐⭐</p>",
+        "text": "Paulina  -   ⭐⭐⭐⭐⭐"
+      },
+      {
+        "id": "comp-m1pizn1y",
+        "html": "<blockquote>\"It was an unforgettable experience. From start to finish, the tour was impeccably organized, offering both adventure and safety in equal measure. </blockquote>\n\n\n\n<blockquote>The tour itself was a delightful mix of stunning landscapes and local culture. </blockquote>\n\n\n\n<blockquote>Our guides were knowledgeable and attentive, ensuring a safe and engaging ride throughout. </blockquote>\n\n\n\n<blockquote>For anyone looking to explore Bali on a scooter, Safe Riding Bali is an excellent choice.\"</blockquote>",
+        "text": "\"It was an unforgettable experience. From start to finish, the tour was impeccably organized, offering both adventure and safety in equal measure. \n\n \n\nThe tour itself was a delightful mix of stunning landscapes and local culture. \n\n \n\nOur guides were knowledgeable and attentive, ensuring a safe and engaging ride throughout. \n\n \n\nFor anyone looking to explore Bali on a scooter, Safe Riding Bali is an excellent choice.\""
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://static.wixstatic.com/media/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png/v1/fill/w_72,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_ea6d10284377437dba8753cabd7c5c7ef000.jpg/v1/fill/w_236,h_88,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_ea6d10284377437dba8753cabd7c5c7ef000.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_8ceffede3e7d4e6b952e5a58b2bca72e~mv2.jpg/v1/fill/w_147,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_8ceffede3e7d4e6b952e5a58b2bca72e~mv2.jpg",
+        "alt": "Rice_field_J2_edited"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_4abc8d8a6b8045b4a1a7b4865a553a82~mv2.jpg/v1/fill/w_147,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_4abc8d8a6b8045b4a1a7b4865a553a82~mv2.jpg",
+        "alt": "WhatsApp Image 2024-07-23 at 09.24_edited"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_7512f34053c6419294abcfc2c35ba36d~mv2.jpeg/v1/fill/w_147,h_117,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_7512f34053c6419294abcfc2c35ba36d~mv2.jpeg",
+        "alt": "WhatsApp Image 2024-06-30 at 23.18.45"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_80dba0a333bc43a694b1fb4993366fa0~mv2.jpg/v1/fill/w_147,h_94,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_80dba0a333bc43a694b1fb4993366fa0~mv2.jpg",
+        "alt": "Tribe in rice field cafe_sm"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_e6ca0d032b044c19931be2168213812f~mv2.png/v1/fill/w_49,h_37,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_e6ca0d032b044c19931be2168213812f~mv2.png",
+        "alt": "image"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_5cf467520b2141afb09c996722e2fad8~mv2.jpeg/v1/fill/w_147,h_184,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/f03949_5cf467520b2141afb09c996722e2fad8~mv2.jpeg",
+        "alt": "WhatsApp Image 2024-07-14 at 19.03.47(1)"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_8ceffede3e7d4e6b952e5a58b2bca72e~mv2.jpg/v1/fill/w_379,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f03949_8ceffede3e7d4e6b952e5a58b2bca72e~mv2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_7512f34053c6419294abcfc2c35ba36d~mv2.jpeg/v1/fill/w_379,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-06-30%20at%2023_18_45.jpeg",
+        "alt": "WhatsApp Image 2024-06-30 at 23.18.45.jpeg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_9bedf4a5c1544042a7a48d8fec8739be~mv2.jpg/v1/fill/w_379,h_247,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-07-14%20at%2019_edited_j.jpg",
+        "alt": "WhatsApp Image 2024-07-14 at 19_edited.j"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_2a6c7a97f2dc494289ff441cf29be1c1~mv2.png/v1/fill/w_123,h_87,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_2a6c7a97f2dc494289ff441cf29be1c1~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/f03949_68eefc373adf4264876b22b123365bae~mv2.png/v1/crop/x_16,y_514,w_865,h_835/fill/w_318,h_307,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Feedback%20Paulina_full.png",
+        "alt": "Feedback Paulina_full.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_a69811712fe843d18a86d32197b98c20~mv2.png/v1/fill/w_212,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_a69811712fe843d18a86d32197b98c20~mv2.png",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "TOURS",
+        "url": "https://nomeo.io/c/SafeRidingBali/meetups"
+      },
+      {
+        "text": "",
+        "url": "https://oliverselch.wixsite.com/website/scootertours"
+      },
+      {
+        "text": "",
+        "url": "https://oliverselch.wixsite.com/website/scootertours"
+      },
+      {
+        "text": "TOUR INFO",
+        "url": "https://nomeo.io/meetup/1722829084672194"
+      },
+      {
+        "text": "",
+        "url": "https://oliverselch.wixsite.com/website/scootertours"
+      },
+      {
+        "text": "",
+        "url": "./#comp-m1pizn0c"
+      },
+      {
+        "text": "",
+        "url": "./#comp-m1pirpzj"
+      }
+    ]
+  },
+  "emergency": {
+    "rich": [
+      {
+        "id": "comp-ly3b5hvr",
+        "html": "<h3>In case of emergency</h3>",
+        "text": "In case of emergency"
+      },
+      {
+        "id": "comp-ly31fjv65",
+        "html": "<p>You are in Bali and you are in need of help. Follow these steps to act adequately and properly to help yourself or anybody in need. </p>\n\n<p>Take note that Bali has no general emergency number, which means, if nescessary, you have to call emergency services yourself. Good luck!</p>",
+        "text": "You are in Bali and you are in need of help. Follow these steps to act adequately and properly to help yourself or anybody in need. \n\nTake note that Bali has no general emergency number, which means, if nescessary, you have to call emergency services yourself. Good luck!"
+      },
+      {
+        "id": "comp-ly3c6s77",
+        "html": "<h2>1</h2>",
+        "text": "1"
+      },
+      {
+        "id": "comp-ly3c67av",
+        "html": "<h2>Secure the location</h2>",
+        "text": "Secure the location"
+      },
+      {
+        "id": "comp-ly3bs0tw",
+        "html": "<p>Make sure everybody is in a safe location away from ongoing traffic. If nescessary divert traffic away from the location of the accident.</p>",
+        "text": "Make sure everybody is in a safe location away from ongoing traffic. If nescessary divert traffic away from the location of the accident."
+      },
+      {
+        "id": "comp-ly3c6uom",
+        "html": "<h2>2</h2>",
+        "text": "2"
+      },
+      {
+        "id": "comp-ly3c2w9c",
+        "html": "<h2>Call emergency help</h2>",
+        "text": "Call emergency help"
+      },
+      {
+        "id": "comp-ly3c2w9d",
+        "html": "<p>Bali has no general emergency number to call. Therefore you need to call an emergency facility yourself.</p>",
+        "text": "Bali has no general emergency number to call. Therefore you need to call an emergency facility yourself."
+      },
+      {
+        "id": "comp-ly3br1p1",
+        "html": "<h2>3</h2>",
+        "text": "3"
+      },
+      {
+        "id": "comp-ly3c2wwy",
+        "html": "<h2>Give First Aid</h2>",
+        "text": "Give First Aid"
+      },
+      {
+        "id": "comp-ly3c2wwz1",
+        "html": "<p>You are in need of help. Follow these steps to act adequately and properly to help yourself or anybody in need.&nbsp;</p>",
+        "text": "You are in need of help. Follow these steps to act adequately and properly to help yourself or anybody in need."
+      },
+      {
+        "id": "comp-ly9yo6xp",
+        "html": "<h2>1</h2>",
+        "text": "1"
+      },
+      {
+        "id": "comp-ly9yq4op",
+        "html": "<h2>Secure the location</h2>",
+        "text": "Secure the location"
+      },
+      {
+        "id": "comp-ly9yxwhu",
+        "html": "<ul>\n<li>\n<p>Assist the Injured Safely: Carefully move injured individuals away from traffic, but only if it's safe and doesn't risk further injury.</p>\n</li>\n</ul>\n\n\n\n<ul>\n<li>\n<p>Alert Oncoming Traffic: Have someone signal approaching vehicles to slow down and divert them away from the accident scene.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Move to Safety: If possible, move vehicles involved in the accident to the side of the road to prevent further collisions.</p>\n</li>\n</ul>",
+        "text": "Assist the Injured Safely: Carefully move injured individuals away from traffic, but only if it's safe and doesn't risk further injury.\n\n\n\n \n\n\n\nAlert Oncoming Traffic: Have someone signal approaching vehicles to slow down and divert them away from the accident scene.\n \n\n\nMove to Safety: If possible, move vehicles involved in the accident to the side of the road to prevent further collisions."
+      },
+      {
+        "id": "comp-ly9z3yxr2",
+        "html": "<h2>2</h2>",
+        "text": "2"
+      },
+      {
+        "id": "comp-ly9z3yxt1",
+        "html": "<h2>Call emergency help</h2>",
+        "text": "Call emergency help"
+      },
+      {
+        "id": "comp-lya0gmtb",
+        "html": "<p>(If nescessary)</p>",
+        "text": "(If nescessary)"
+      },
+      {
+        "id": "comp-ly9zhk7y",
+        "html": "<p>Bali has no general emergency number to call. Therefore you need to call an emergency facility yourself. Click on the region that you are in and make the phone call. If the first number is unable to send immediate help, call the second number in the list.</p>",
+        "text": "Bali has no general emergency number to call. Therefore you need to call an emergency facility yourself. Click on the region that you are in and make the phone call. If the first number is unable to send immediate help, call the second number in the list."
+      },
+      {
+        "id": "comp-lya52608",
+        "html": "\n\n<ul>\n<li>\n<p>BIMC Ubud<br>\n+6236184611172 </p>\n</li>\n</ul>\n\n\n\n<ul>\n<li>\n<p>Premagana Batubulan<br>\n+623619088087 </p>\n</li>\n</ul>\n\n\n\n<ul>\n<li>\n<p>Payangan Hospital<br>\n+623619088087</p>\n</li>\n</ul>",
+        "text": "BIMC Ubud\n+6236184611172 \n\n\n\n \n\n\n\nPremagana Batubulan\n+623619088087 \n\n\n\n \n\n\n\nPayangan Hospital\n+623619088087"
+      },
+      {
+        "id": "comp-lya4v6w5",
+        "html": "\n\n<ul>\n<li>\n<p>RSU Sanjiwani (Gianyar) +62361943020</p>\n</li>\n</ul>\n\n\n\n<ul>\n<li>\n<p>RS Aricanti (Mas) +62361974573 </p>\n</li>\n</ul>\n\n\n\n<ul>\n<li>\n<p>RS Ganesha (Batubulan) +623614710066</p>\n</li>\n</ul>",
+        "text": "RSU Sanjiwani (Gianyar) +62361943020\n\n\n\n \n\n\n\nRS Aricanti (Mas) +62361974573 \n\n\n\n \n\n\n\nRS Ganesha (Batubulan) +623614710066"
+      },
+      {
+        "id": "comp-lya69fox1",
+        "html": "\n\n<ul>\n<li>\n<p>Bali Med Denpasar +628111484748<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Bali Royal Hospital&nbsp; +62361222558<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Kasih Ibu DPS +623613003030</p>\n</li>\n</ul>",
+        "text": "Bali Med Denpasar +628111484748\n \n\n\nBali Royal Hospital  +62361222558\n \n\n\nKasih Ibu DPS +623613003030"
+      },
+      {
+        "id": "comp-lya69foy2",
+        "html": "\n\n<ul>\n<li>\n<p>RS Sanglah <br>\n+62361227912<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Surya Husada DPS +62361233787</p>\n</li>\n</ul>",
+        "text": "RS Sanglah \n+62361227912\n \n\n\nSurya Husada DPS +62361233787"
+      },
+      {
+        "id": "comp-lya69qj53",
+        "html": "\n\n<ul>\n<li>\n<p>BIMC KUTA <br>\n+62361 761263<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Siloam (Kuta) +62361779900<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Surya Husada (Nusa Dua) +62361775827</p>\n</li>\n</ul>",
+        "text": "BIMC KUTA \n+62361 761263\n \n\n\nSiloam (Kuta) +62361779900\n \n\n\n Surya Husada (Nusa Dua) +62361775827"
+      },
+      {
+        "id": "comp-lya5zb39",
+        "html": "<p>Disclaimer: &nbsp;We do NOT take any responsibility for the information provided. We have not checked if the numbers are valid and if they led to the intended result. This list is for information purposes only and are numbers we would call in case we would be in an emergency. However….YOU ARE RESPONSIBLE FOR YOUR OWN HEALTH AND FOR ORGANIZING ANY HELP YOU MAY NEED IN A MEDICAL EMERGENCY.</p>",
+        "text": "Disclaimer:  We do NOT take any responsibility for the information provided. We have not checked if the numbers are valid and if they led to the intended result. This list is for information purposes only and are numbers we would call in case we would be in an emergency. However….YOU ARE RESPONSIBLE FOR YOUR OWN HEALTH AND FOR ORGANIZING ANY HELP YOU MAY NEED IN A MEDICAL EMERGENCY."
+      },
+      {
+        "id": "comp-lya6prgc",
+        "html": "<h2>Give First Aid</h2>",
+        "text": "Give First Aid"
+      },
+      {
+        "id": "comp-lya6qg5s",
+        "html": "<h2>3</h2>",
+        "text": "3"
+      },
+      {
+        "id": "comp-lya79koz",
+        "html": "<p>Allright, so help is on your way. Here is how you can can apply basic first aid to the person in need while you wait for emergency response to arrive. Not that it can take up to an hour for an ambulance to arrive, expecially at rush hour.</p>",
+        "text": "Allright, so help is on your way. Here is how you can can apply basic first aid to the person in need while you wait for emergency response to arrive. Not that it can take up to an hour for an ambulance to arrive, expecially at rush hour."
+      },
+      {
+        "id": "comp-lya679tc4",
+        "html": "<h2>Stop bleeding</h2>",
+        "text": "Stop bleeding"
+      },
+      {
+        "id": "comp-lya7fmyx",
+        "html": "<ul>\n<li>\n<p>Apply Pressure: Use a clean cloth, bandage, or your hand to apply firm pressure directly on the wound.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Elevate the Injured Area: If possible, raise the injured limb above the level of the heart to slow the bleeding.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Use a Tourniquet: As a last resort, if the bleeding is severe and not stopping with direct pressure, you can use a tourniquet. Apply it above the wound, between the injury and the heart.&nbsp;</p>\n</li>\n</ul>",
+        "text": "Apply Pressure: Use a clean cloth, bandage, or your hand to apply firm pressure directly on the wound.\n \n\n\nElevate the Injured Area: If possible, raise the injured limb above the level of the heart to slow the bleeding.\n \n\n\nUse a Tourniquet: As a last resort, if the bleeding is severe and not stopping with direct pressure, you can use a tourniquet. Apply it above the wound, between the injury and the heart."
+      },
+      {
+        "id": "comp-lya7fygb1",
+        "html": "<h2>Check for breathing</h2>",
+        "text": "Check for breathing"
+      },
+      {
+        "id": "comp-lya7fygc4",
+        "html": "<ul>\n<li>\n<p>Clear the Airway: Gently tilt the head back and lift the chin to open the airway. Check for breathing.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Administer CPR if Necessary: If the person is not breathing, begin CPR. Give chest compressions at a rate of 100-120 per minute and provide rescue breaths if trained to do so.</p>\n</li>\n</ul>",
+        "text": "Clear the Airway: Gently tilt the head back and lift the chin to open the airway. Check for breathing.\n \n\n\nAdminister CPR if Necessary: If the person is not breathing, begin CPR. Give chest compressions at a rate of 100-120 per minute and provide rescue breaths if trained to do so."
+      },
+      {
+        "id": "comp-lya7gex61",
+        "html": "<h2>Treat for shock</h2>",
+        "text": "Treat for shock"
+      },
+      {
+        "id": "comp-lya7gex74",
+        "html": "<ul>\n<li>\n<p>Keep the Person Warm: Use blankets, coats, or whatever is available to keep the injured person warm.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Elevate the Legs: If there are no injuries to the legs, elevate them to improve blood flow to vital organs.<br>\n&nbsp;</p>\n</li>\n<li>\n<p>Stay Calm and Reassure: Talk to the injured person, keep them calm, and reassure them that help is on the way.</p>\n</li>\n</ul>",
+        "text": "Keep the Person Warm: Use blankets, coats, or whatever is available to keep the injured person warm.\n \n\n\nElevate the Legs: If there are no injuries to the legs, elevate them to improve blood flow to vital organs.\n \n\n\nStay Calm and Reassure: Talk to the injured person, keep them calm, and reassure them that help is on the way."
+      },
+      {
+        "id": "comp-lygvcjt2",
+        "html": "<h2>Good Luck!</h2>",
+        "text": "Good Luck!"
+      },
+      {
+        "id": "comp-lygvkxn4",
+        "html": "<h2>Additional information</h2>",
+        "text": "Additional information"
+      },
+      {
+        "id": "comp-lygvyuft",
+        "html": "<h2>Donate blood</h2>",
+        "text": "Donate blood"
+      },
+      {
+        "id": "comp-lygwga32",
+        "html": "<p>Bank Darah RSUP Sanglah</p>\n\n<p>Denpassar</p>\n\n<p>+62361227911</p>",
+        "text": "Bank Darah RSUP Sanglah\n\nDenpassar\n\n+62361227911"
+      },
+      {
+        "id": "comp-lyh3n9at",
+        "html": "<p>Donate blood every once in a while, it might safe a life. Donating blood does also have additional benefits:<br>\n&nbsp;</p>\n\n<ul>\n<li>\n<p>Maintains your heart’s health</p>\n</li>\n<li>\n<p>Increases red blood cell production</p>\n</li>\n<li>\n<p>Reduces cancer risk</p>\n</li>\n</ul>",
+        "text": "Donate blood  every once in a while, it might safe a life. Donating blood does also have additional benefits:\n \n\n\n\nMaintains your heart’s health\n\n\nIncreases red blood cell production\n\n\nReduces cancer risk"
+      },
+      {
+        "id": "comp-lygvz48y",
+        "html": "<h2>Further Info</h2>",
+        "text": "Further Info"
+      },
+      {
+        "id": "comp-lyh56lmv",
+        "html": "<p>This page is useful for people that are in need of help. We tried to make the information as accurate as possible. However Safe Riding Bali is not responsible for the actions taken as the result of following the information on this page.<br>\n<br>\nWe have not checked if the numbers are valid and if they led to the intended result. This list is for information purposes only and are numbers we would call in case we would be in an emergency.&nbsp;<br>\nYou are responsible for your own health and organizing any help you may need in a medical emergency.</p>\n\n\n\n<p>We do want this information to be as true and as accurate as possible. If you have any ideas that could improve this page and eventually helping people. Please contact us in the form on this page and help us and everybody create a safer traffic world.</p>",
+        "text": "This page is useful for people that are in need of help. We tried to make the information as accurate as possible. However Safe Riding Bali is not responsible for the actions taken as the result of following the information on this page.\n\nWe have not checked if the numbers are valid and if they led to the intended result. This list is for information purposes only and are numbers we would call in case we would be in an emergency. \nYou are responsible for your own health and organizing any help you may need in a medical emergency.\n\n \n\nWe do want this information to be as true and as accurate as possible. If you have any ideas that could improve this page and eventually helping people. Please contact us in the form on this page and help us and everybody create a safer traffic world."
+      },
+      {
+        "id": "comp-lyh3tkm8",
+        "html": "<h2>Corrections or improvements</h2>",
+        "text": "Corrections or improvements"
+      },
+      {
+        "id": "comp-lyh4azno",
+        "html": "<p>There is a chance some of this information may be out of date, obsolete or ill informed.</p>\n\n<p>The input of users is extremely important to keep the information on this page as accurate as possible. Let us know if there is misinformation on the website or if you have ideas or things that we can add. We will review the information and correct or add where applicable</p>",
+        "text": "There is a chance some of this information may be out of date, obsolete or ill informed.\n\nThe input of users is extremely important to keep the information on this page as accurate as possible. Let us know if there is misinformation on the website or if you have ideas or things that we can add. We will review the information and correct or add where applicable"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://static.wixstatic.com/media/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png/v1/fill/w_72,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_ae65140aa44a4324871af5748638b6d0~mv2.jpg/v1/fill/w_61,h_40,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_ae65140aa44a4324871af5748638b6d0~mv2.jpg",
+        "alt": "AdobeStock_621550879 blurred.jpg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_047dbd43981541dcb4da3943f09c96d0~mv2.png/v1/fill/w_113,h_115,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Perimeter%20Check%20Icon%20copy.png",
+        "alt": "Perimeter Check Icon copy.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_e22b566d30ec43a490d80319469419f6~mv2.png/v1/fill/w_81,h_83,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/healthcare-call-center-icon%20copy%202.png",
+        "alt": "healthcare-call-center-icon copy 2.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_7357e763fab74600aa93fa355fc41be7~mv2.png/v1/fill/w_95,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/FirstAid_icon.png",
+        "alt": "FirstAid_icon.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_047dbd43981541dcb4da3943f09c96d0~mv2.png/v1/fill/w_184,h_173,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Perimeter%20Check%20Icon%20copy.png",
+        "alt": "Perimeter Check Icon copy.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_e22b566d30ec43a490d80319469419f6~mv2.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/healthcare-call-center-icon%20copy%202.png",
+        "alt": "healthcare-call-center-icon copy 2.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_7357e763fab74600aa93fa355fc41be7~mv2.png/v1/fill/w_95,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/FirstAid_icon.png",
+        "alt": "FirstAid_icon.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_346a0b9508034fb9a5f7e252b031ea44~mv2.png/v1/fill/w_74,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pray_icon.png",
+        "alt": "Pray_icon.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_6bdeefc850164f338be22803aa58b5b0~mv2.png/v1/fill/w_60,h_87,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Blood_icon.png",
+        "alt": "Blood_icon.png"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_a69811712fe843d18a86d32197b98c20~mv2.png/v1/fill/w_212,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_a69811712fe843d18a86d32197b98c20~mv2.png",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "Call",
+        "url": "tel:+623619088087"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+623619088087"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+6236184611172"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361943020"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361674573"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+623614710066"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+6236184611172"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+623619088087"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+623619088087"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361227912"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361233787"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361 761263"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361779900"
+      },
+      {
+        "text": "Call",
+        "url": "tel:+62361775827"
+      },
+      {
+        "text": "Maps location",
+        "url": "https://maps.app.goo.gl/nJz4MwVRfpdbv8yC6"
+      }
+    ]
+  },
+  "ourstory": {
+    "rich": [
+      {
+        "id": "comp-ly30d4nf",
+        "html": "<h1>Our story: Love Life, Ride Safe</h1>",
+        "text": "Our story: Love Life, Ride Safe"
+      },
+      {
+        "id": "comp-ly30d4nm1",
+        "html": "<p>Out initiative for road safety started when we saw people who were new to riding a scooter in Bali get the same type of accidents and painful injuries - which could have been prevented.</p>\n\n\n\n<p>Then, early 2024, we were shocked as a fellow traveler in Bali, Marseli from Moldova, died as a result of a scooter crash!</p>\n\n<p>We were sad that we could not help him and vowed to prevent this from ever happening to others!</p>\n\n<p>Life is too precious and beautiful to be severely impacted or ended by a scooter accident!</p>\n\n\n\n<p>Thus, we got together and started teaching people coming to Bali how to ride a scooter more safely. Later we offered practical trainings in combination with tours to enjoy Bali - and life in general.</p>\n\n\n\n<p>Our initiative helps foreigners to ride more safely and supports the local community, by reducing the number of accidents they may be involved in. We also create connections between locals and foreigners during our tours and support the local economy. Lastly, safer roads support tourism in Bali in general and allow visitors to enjoy their time on the island more.</p>\n\n\n\n<p>We wish you safe riding, a happy life and a great time in Bali!</p>",
+        "text": "Out initiative for road safety started when we saw people who were new to riding a scooter in Bali get the same type of accidents and painful injuries - which could have been prevented.\n\n \n\nThen, early 2024, we were shocked as a fellow traveler in Bali, Marseli from Moldova, died as a result of a scooter crash!\n\nWe were sad that we could not help him and vowed to prevent this from ever happening to others!\n\nLife is too precious and beautiful to be severely impacted or ended by a scooter accident!\n\n \n\nThus, we got together and started teaching people coming to Bali how to ride a scooter more safely. Later we offered practical trainings in combination with tours to enjoy Bali - and life in general.\n\n \n\nOur initiative helps foreigners to ride more safely and supports the local community, by reducing the number of accidents they may be involved in. We also create connections between locals and foreigners during our tours and support the local economy. Lastly, safer roads support tourism in Bali in general and allow visitors to enjoy their time on the island more.\n\n \n\nWe wish you safe riding, a happy life and a great time in Bali!"
+      }
+    ],
+    "imgs": [
+      {
+        "src": "https://static.wixstatic.com/media/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png/v1/fill/w_72,h_72,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_67031ee7408a4f7fa5987ae7ad97ddd9~mv2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_ddfd36df50ca4bde9a4e82ed7b6666ff~mv2.jpg/v1/fill/w_52,h_35,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/531870_ddfd36df50ca4bde9a4e82ed7b6666ff~mv2.jpg",
+        "alt": "AdobeStock_621550879_edited.jpg"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/531870_a69811712fe843d18a86d32197b98c20~mv2.png/v1/fill/w_212,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/531870_a69811712fe843d18a86d32197b98c20~mv2.png",
+        "alt": ""
+      }
+    ],
+    "links": []
+  }
+}

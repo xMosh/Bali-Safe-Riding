@@ -1,0 +1,10 @@
+---
+import content from '../data/content.json';import dimensions from '../data/image-dimensions.json';
+const {page,index,alt,class:className='',eager=false} = Astro.props;
+const image=content[page].imgs[index];
+const filename=image.src.split('/v1/')[0].split('/').pop();
+const name=filename.replace(/\.[^.]+$/,'.webp');
+const src=import.meta.env.BASE_URL+'assets/'+name;
+const {width,height}=dimensions[name];
+---
+<img src={src} width={width} height={height} alt={alt ?? image.alt} class={className} loading={eager ? 'eager' : 'lazy'} decoding="async" />

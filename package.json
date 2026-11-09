@@ -1,0 +1,21 @@
+{
+  "name": "bali-safe-riding",
+  "version": "1.0.0",
+  "description": "Safe Riding Bali — faithful Astro migration of the original Wix website",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0",
+    "verify": "node scripts/verify.mjs",
+    "check": "npm run build && npm run verify"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "astro": "^7.4.7"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

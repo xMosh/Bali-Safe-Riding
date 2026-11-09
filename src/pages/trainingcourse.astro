@@ -1,0 +1,5 @@
+---
+import Layout from '../layouts/Layout.astro';import Image from '../components/Image.astro';import Rich from '../components/Rich.astro';
+---
+<Layout title="Scooter Training"><section class="split training-intro"><div class="copy"><h1>Learn to ride safely<br/>in Bali!</h1><Rich page="trainingcourse" index={0}/><div class="center"><a class="button" href="https://wa.me/6281138004171">LEARN SAFE RIDING</a></div></div><Image page="trainingcourse" index={1} alt="A trainee and her local scooter coach" eager/></section>
+<section class="feedback"><Image page="trainingcourse" index={2} alt="Bali's green hills" class="backdrop"/><div class="feedback-box"><h2>Feedback</h2><p class="orange">Mayur</p><Rich page="trainingcourse" index={4}/></div><Image page="trainingcourse" index={3} alt="Mayur's original scooter training feedback" class="feedback-message"/></section></Layout>

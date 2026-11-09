@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';import Image from '../components/Image.astro';import Rich from '../components/Rich.astro';
+const base=import.meta.env.BASE_URL;
+---
+<Layout title="Home">
+<section class="home-hero"><Image page="home" index={1} alt="Bali scooter riding with the original orange and white wave design" eager/><div class="hero-copy"><h1>Love Life, Ride Safe!</h1><Rich page="home" index={1}/></div><a class="down" href="#training" aria-label="Explore scooter training">⌄</a></section>
+<section class="split home-training" id="training"><Image page="home" index={2} alt="A smiling trainee on a green scooter in Bali"/><div class="copy center"><h2>Scooter Training</h2><Rich page="home" index={3}/><div class="actions vertical"><a class="button" href="https://wa.me/6281138004171">Book a training</a><a class="button" href={base+'trainingcourse/'}>More Information</a></div></div></section>
+<section class="home-tours"><Image page="home" index={3} alt="Exploring Bali on a scooter"/><div class="tour-card center"><h2>Scooter Tours</h2><Rich page="home" index={5}/><a class="button" href={base+'scootertours/'}>I WANT TO EXPLORE BALI</a></div><h2 class="ride-callout">Come<br/>Ride with<br/>us!</h2></section>
+<section class="home-emergency wrap split"><Image page="home" index={4} alt="Road safety and emergencies in Bali"/><div class="copy"><h2>In case of Emergency</h2><Rich page="home" index={8}/><a class="button red" href={base+'emergency/'}>EMERGENCY PAGE</a></div></section>
+</Layout>

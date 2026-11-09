@@ -1,0 +1,6 @@
+---
+import content from '../data/content.json';
+const {page,index} = Astro.props;
+const block = content[page].rich[index];
+---
+<div class="rich" set:html={block.html} />
